@@ -1,0 +1,16 @@
+Name:MTN GPRS Data
+APN:https://gprs.mtnsa.com
+Proxy:
+Port:
+Usernane:
+Password:
+MMSC:
+MMS proxy:
+MMS Port:
+MMS:
+MCC:655
+MNC:10
+Authentication type:PAP
+APN Type:default
+APN PROTOCOL:IPv4
+APN ROAMING PROTOCOL:IPv4
